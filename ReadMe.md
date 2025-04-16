@@ -1,6 +1,8 @@
 # 💫About Me :
 Name: Cao Dinh Thi
+
 School: University of Transport and Communications
+
 Major: Electronics and Telecommunications 
 
 
